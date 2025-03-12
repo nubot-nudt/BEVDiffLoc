@@ -56,9 +56,9 @@ MODEL:
         n_cls:                  1
 
     DENOISER: 
-        _target_: models.Denoiser
+        _target_: models.Denoiser_bev
         TRANSFORMER:
-            _target_:               models.denoiser.TransformerEncoderWrapper
+            _target_:               models.denoiser_bev.TransformerEncoderWrapper_bev
             d_model:                512
             nhead:                  4
             num_encoder_layers:     8

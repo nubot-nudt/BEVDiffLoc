@@ -42,7 +42,7 @@ data_root
 
 - NCLT: We use [NCLT Sample Python Scripts](https://robots.engin.umich.edu/nclt/) to preprocess velodyne_sync to speed up data reading. We provided within it [nclt_precess.py](preprocess/nclt_precess.py).
 
-- Oxford&NCLT: We use [merge_nclt.py](preprocess/merge_nclt.py) and [merge_oxford.py](preprocess/merge_oxford.py) to generate local scenes for data augmentation.
+- Oxford&NCLT: We use [merge_nclt.py](merge_nclt.py) and [merge_oxford.py](merge_oxford.py) to generate local scenes for data augmentation.
 
 
 ## Run
