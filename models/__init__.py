@@ -7,6 +7,5 @@
 from .difussion_loc_model_bev import DiffusionLocModel_bev
 
 from .denoiser_bev import Denoiser_bev, TransformerEncoderWrapper_bev
-from .denoiser import Denoiser, TransformerEncoderWrapper
 from .gaussian_diffuser import GaussianDiffusion
 from .image_feature_extractor_bev import ImageFeatureExtractor_bev
