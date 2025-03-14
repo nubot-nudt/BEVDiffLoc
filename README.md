@@ -61,6 +61,20 @@ accelerate launch --num_processes 1 --mixed_precision fp16 train_bev.py
 python test_bev.py
 ```
 
+## Citation
+
+If you find this work helpful, please consider citing:
+**TODO**
+```bibtex
+@article{xx,
+	title={xx},
+	author={x},
+	year={2025},
+ journal={arXiv preprint arXiv:xx.01929}, 
+}
+```
+
 ## Acknowledgement
 
  We appreciate the code of [DiffLoc](https://github.com/liw95/DiffLoc) and [BEVPlace++](https://github.com/zjuluolun/BEVPlace2) they shared.
+
