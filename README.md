@@ -2,7 +2,7 @@
 BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model
 
 # Visualization
-![image](img/nclt.gif) ![image](img/oxford.gif)
+![image](img/oxford.gif) ![image](img/nclt.gif)
 
 # Environment
 
@@ -67,7 +67,6 @@ python test_bev.py
 ## Citation
 
 If you find this work helpful, please consider citing:
-**TODO**
 ```bibtex
 @article{Wang2025BEVDiffLoc,
 	title={BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model},
