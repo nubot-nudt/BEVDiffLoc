@@ -70,9 +70,9 @@ If you find this work helpful, please consider citing:
 ```bibtex
 @article{Wang2025BEVDiffLoc,
 	title={BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model},
-	author={Z. Wang and C. Shi and N. Wang and Q. Yu and X. Chen and H. Lu},
+	author={Ziyue, Wang and Chenghao, Shi and Neng, Wang and Qinghua, Yu and Xieyuanli, Chen and Huimin, Lu},
 	year={2025},
- journal={arXiv preprint arXiv:xx.01929}, 
+ 	journal={arXiv preprint arXiv:2503.11372}, 
 }
 ```
 
