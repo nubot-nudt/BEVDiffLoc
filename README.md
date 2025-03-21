@@ -43,8 +43,6 @@ data_root
 
 ## Data prepare
 
-- NCLT: We use [NCLT Sample Python Scripts](https://robots.engin.umich.edu/nclt/) to preprocess velodyne_sync to speed up data reading. We provided within it [nclt_precess.py](preprocess/nclt_precess.py).
-
 - Oxford&NCLT: We use [merge_nclt.py](merge_nclt.py) and [merge_oxford.py](merge_oxford.py) to generate local scenes for data augmentation.
 
 
@@ -68,11 +66,11 @@ python test_bev.py
 
 If you find this work helpful, please consider citing:
 ```bibtex
-@article{Wang2025BEVDiffLoc,
-	title={BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model},
-	author={Ziyue, Wang and Chenghao, Shi and Neng, Wang and Qinghua, Yu and Xieyuanli, Chen and Huimin, Lu},
-	year={2025},
- 	journal={arXiv preprint arXiv:2503.11372}, 
+@article{wang2025bevdiffloc,
+  title={BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model},
+  author={Wang, Ziyue and Shi, Chenghao and Wang, Neng and Yu, Qinghua and Chen, Xieyuanli and Lu, Huimin},
+  journal={arXiv preprint arXiv:2503.11372},
+  year={2025}
 }
 ```
 
