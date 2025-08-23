@@ -1,5 +1,5 @@
 # BEVDiffLoc
-[IROS 2025]BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model
+[IROS 25] BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model
 
 # Visualization
 ![image](img/oxford.gif) ![image](img/nclt.gif)
